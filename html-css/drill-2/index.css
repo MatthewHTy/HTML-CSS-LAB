@@ -1,0 +1,62 @@
+body {
+    margin: 0 auto;
+    padding: 15px;
+  }
+  
+  
+  .boxone {
+    width: 1390px;
+    border: 4px solid black;
+    padding: 20px;
+  }
+  
+  .squareone {
+    height: 150px;
+    width: 40px;
+    background-color: rgb(131, 27, 228);
+    display: inline-block;
+  }
+  .squaretwo {
+    height: 200px;
+    width: 300px;
+    display: inline-block;
+    background-color: rgb(46, 168, 46);
+    margin: 0 75px;
+  }
+  .circleone {
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    background-color: rgb(125, 202, 233);
+    display: inline-block;
+  }
+  
+  .boxtwo {
+    width: 1420px;
+    border: 5px dotted black;
+    padding: 50px;
+    box-sizing: border-box ;
+    margin-top: 25px; 
+  }
+  
+  .otherbox {
+    width: 1300px;
+    height: 250px;
+    background-color: rgb(243, 238, 194);
+  }
+  
+  .boxthree {
+    width: 700px;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: white;
+    padding: 100px;
+    box-sizing: border-box ;
+    margin: 300px;
+  }
+  
+  .boxthree h1 {
+    width: 500px;
+    text-align: center;
+    color: rgb(3, 3, 128);
+    letter-spacing: 30px;
+  }

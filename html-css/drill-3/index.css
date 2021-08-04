@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.row {
+    height: 100px;
+    width: 100%;
+}
+
+.row2 {
+    height: 200px;
+    width: 100%;
+}
+
+.row1 {
+    background-color: white;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.divrow {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(78, 78, 228)
+}
+
+.rowtwo {
+    background-color: rgb(255, 255, 255);
+    height: 50px;
+    width: 50px;
+}
+
+.row3 {
+    background-color:rgb(78, 78, 228)
+}
+
+.row4 {
+    background-color: rgb(58, 231, 208);
+}
+
+.row5 {
+    background-color: rgb(135, 192, 97);
+}
+
+.row6 {
+    background-color: rgb(248, 248, 0);
+}
